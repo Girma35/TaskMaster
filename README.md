@@ -27,7 +27,7 @@ Follow these steps to set up the Task Management System on your local machine:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/Girma35/TaskMaster.git](https://github.com/Girma35/TaskMaster.git)
+    git clone https://github.com/Girma35/TaskMaster.git
     cd TaskMaster
     ```
 
