@@ -47,7 +47,7 @@ Follow these steps to set up the Task Management System on your local machine:
     npm start
     ```
 
-    This will start the development server, and the application will be accessible at `http://localhost:3000` in your web browser.
+    This will start the development server, and the application will be accessible at `http://localhost:5173` in your web browser.
 
 ###   Building for Production
 
