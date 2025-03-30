@@ -39,24 +39,12 @@ Follow these steps to set up the Task Management System on your local machine:
     npm install
     ```
 
-    Or, using Yarn:
-
-    ```bash
-    yarn install
-    ```
-
 3.  **Start the Development Server:**
 
     Using npm:
 
     ```bash
     npm start
-    ```
-
-    Or, using Yarn:
-
-    ```bash
-    yarn start
     ```
 
     This will start the development server, and the application will be accessible at `http://localhost:3000` in your web browser.
