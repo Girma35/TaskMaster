@@ -13,6 +13,9 @@ A modern and intuitive task management system built with React and Redux, design
 * **State Management:** Utilizes Redux for efficient state management.
 * **Fancy UI:** Modern UI with gradient colors and interactive components.
 
+Live Demo 
+https://girma-task-man.netlify.app/
+
 ## Setup Instructions
 
 Follow these steps to set up the Task Management System on your local machine:
